@@ -1,0 +1,12 @@
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\AccesoDeDatos\bin\Debug\AccesoDeDatos.dll.config
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\AccesoDeDatos\bin\Debug\AccesoDeDatos.dll
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\AccesoDeDatos\bin\Debug\AccesoDeDatos.pdb
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\AccesoDeDatos\bin\Debug\EntityFramework.dll
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\AccesoDeDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\AccesoDeDatos\bin\Debug\EntityFramework.xml
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\AccesoDeDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\AccesoDeDatos\obj\Debug\AccesoDeDatos.csproj.AssemblyReference.cache
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\AccesoDeDatos\obj\Debug\AccesoDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\AccesoDeDatos\obj\Debug\AccesoDeDatos.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\AccesoDeDatos\obj\Debug\AccesoDeDatos.dll
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\AccesoDeDatos\obj\Debug\AccesoDeDatos.pdb

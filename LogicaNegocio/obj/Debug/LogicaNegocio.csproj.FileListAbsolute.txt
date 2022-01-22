@@ -1,0 +1,12 @@
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\LogicaNegocio\bin\Debug\AccesoDeDatos.dll
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\LogicaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\LogicaNegocio\bin\Debug\AccesoDeDatos.pdb
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\LogicaNegocio\bin\Debug\AccesoDeDatos.dll.config
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\LogicaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\LogicaNegocio\obj\Debug\LogicaNegocio.pdb

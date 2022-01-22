@@ -1,0 +1,41 @@
+C:\Users\fabia\OneDrive\Documentos\GestionInventario\bin\Debug\GestionInventario.exe.config
+C:\Users\fabia\OneDrive\Documentos\GestionInventario\bin\Debug\GestionInventario.exe
+C:\Users\fabia\OneDrive\Documentos\GestionInventario\bin\Debug\GestionInventario.pdb
+C:\Users\fabia\OneDrive\Documentos\GestionInventario\bin\Debug\EntityFramework.dll
+C:\Users\fabia\OneDrive\Documentos\GestionInventario\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabia\OneDrive\Documentos\GestionInventario\bin\Debug\EntityFramework.xml
+C:\Users\fabia\OneDrive\Documentos\GestionInventario\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabia\OneDrive\Documentos\GestionInventario\obj\Debug\GestionInventario.csproj.AssemblyReference.cache
+C:\Users\fabia\OneDrive\Documentos\GestionInventario\obj\Debug\GestionInventario.Gestion.resources
+C:\Users\fabia\OneDrive\Documentos\GestionInventario\obj\Debug\GestionInventario.Properties.Resources.resources
+C:\Users\fabia\OneDrive\Documentos\GestionInventario\obj\Debug\GestionInventario.csproj.GenerateResource.cache
+C:\Users\fabia\OneDrive\Documentos\GestionInventario\obj\Debug\GestionInventario.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Documentos\GestionInventario\obj\Debug\GestionInventario.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Documentos\GestionInventario\obj\Debug\GestionInventario.exe
+C:\Users\fabia\OneDrive\Documentos\GestionInventario\obj\Debug\GestionInventario.pdb
+C:\Users\fabia\OneDrive\Documentos\GestionInventario\obj\Debug\GestionInventario.Bodega.resources
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\bin\Debug\GestionInventario.exe.config
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\bin\Debug\GestionInventario.exe
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\bin\Debug\GestionInventario.pdb
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\bin\Debug\EntityFramework.dll
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\bin\Debug\EntityFramework.xml
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\obj\Debug\GestionInventario.csproj.AssemblyReference.cache
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\obj\Debug\GestionInventario.Bodega.resources
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\obj\Debug\GestionInventario.Gestion.resources
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\obj\Debug\GestionInventario.Properties.Resources.resources
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\obj\Debug\GestionInventario.csproj.GenerateResource.cache
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\obj\Debug\GestionInventario.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\obj\Debug\GestionInventario.csproj.CopyComplete
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\obj\Debug\GestionInventario.exe
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\obj\Debug\GestionInventario.pdb
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\bin\Debug\LogicaNegocio.dll
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\bin\Debug\AccesoDeDatos.dll
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\bin\Debug\LogicaNegocio.pdb
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\bin\Debug\AccesoDeDatos.pdb
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\bin\Debug\AccesoDeDatos.dll.config
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\obj\Debug\GestionInventario._1._1_Vista.Articulo.resources
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\obj\Debug\GestionInventario._1._1_Vista.Inventario.resources
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\obj\Debug\GestionInventario._1._1_Vista.Transferir.resources
+C:\Users\fabia\OneDrive\Documentos\Prueba tecnica\GestionInventario\obj\Debug\GestionInventario._1._1_Vista.Log.resources
